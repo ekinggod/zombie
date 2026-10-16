@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Monster/z1","animator":"Animator/Monster/Aggresive","atk":5,"moveSpeed":5,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":2,"res":"Monster/z2","animator":"Animator/Monster/Broken","atk":5,"moveSpeed":5,"roundSpeed":50,"hp":10,"atkOffst":1.2},
+{"id":3,"res":"Monster/z3","animator":"Animator/Monster/Calm","atk":5,"moveSpeed":5,"roundSpeed":60,"hp":10,"atkOffst":1},
+{"id":4,"res":"Monster/z4","animator":"Animator/Monster/Crawl","atk":5,"moveSpeed":5,"roundSpeed":150,"hp":10,"atkOffst":0.5},
+{"id":5,"res":"Monster/z2","animator":"Animator/Monster/Aggresive","atk":5,"moveSpeed":5,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":6,"res":"Monster/z3","animator":"Animator/Monster/Crawl","atk":5,"moveSpeed":5,"roundSpeed":100,"hp":10,"atkOffst":0.8}
+]
